@@ -1,4 +1,11 @@
-[Đăng ký server Vultr.com qua link referral này, bạn sẽ tặng mình một ly cafe.](https://www.vultr.com/?ref=6846932)
+Đăng ký server qua link referral dưới, bạn sẽ tặng mình một ly cafe <3
+
+| NCC           | Link           |
+| ------------- |:-------------:     |
+| Vultr         | [Đăng ký ngay ](https://www.vultr.com/?ref=6846932)|
+| Hetzner      | [Đăng ký ngay ](https://hetzner.cloud/?ref=fS54U43gi4aS)    |
+| Digital Occean | [Đăng ký ngay ](https://m.do.co/c/5ef6c574cded)     |
+
 # Cập nhật OS và cài các thành phần cần thiết
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt-get install -y build-essential curl wget jq lz4
