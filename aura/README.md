@@ -6,7 +6,7 @@
 | Hetzner      | [Đăng ký ngay ](https://hetzner.cloud/?ref=fS54U43gi4aS)    |...|
 | Digital Ocean | [Đăng ký ngay ](https://m.do.co/c/5ef6c574cded)     |Đăng ký qua link này, bạn được D.O tặng $200 và 60 ngày sử dụng cho tài khoản mới|
 
-# Cập nhật OS và cài các thành phần cần thiết
+# Cập nhật OS và cài các packages cần thiết
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt-get install -y build-essential curl wget jq lz4
 ```
@@ -29,7 +29,7 @@ source ~/.bash_profile
 go version
 ```
 
-## Clone repo
+## Clone repo và cài binary aurad
 ```
 cd $HOME
 git clone https://github.com/aura-nw/aura && cd aura
@@ -47,7 +47,7 @@ make install
 aurad version
 ```
 
-## init aurad 
+## 	Initialize node 
 ```
 aurad init tienthuattoan --chain-id xstaxy-1
 ```
