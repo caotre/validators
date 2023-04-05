@@ -1,4 +1,4 @@
-# To do list
+# Video ideas
 ## Chạy node & validator
 - Người mới tham gia chạy node nên bắt đầu từ đâu? 
 - Hướng dẫn chọn server để chạy node
