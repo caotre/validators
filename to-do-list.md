@@ -7,6 +7,6 @@
 - Phần mềm cần thiết
 - Chạy nhiều node trên một server
 - Cách upgrade node
-- Cách tìm dự án đang testnet incentived
+- Cách tìm dự án Incentivized Testnet
 - Tiềm năng POS
 - ...
