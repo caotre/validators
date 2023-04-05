@@ -2,7 +2,7 @@
 
 | NCC           | Link           | Note |
 | ------------- |:-------------:     |:-------------: |
-| Vultr         | [Đăng ký ngay ](https://www.vultr.com/?ref=6846932)|...|
+| Vultr         | [Đăng ký ngay ](https://www.vultr.com/?ref=6846932)|Áp mã FLYVULTR250 để nhận $250 khi đăng ký qua link referral|
 | Hetzner      | [Đăng ký ngay ](https://hetzner.cloud/?ref=fS54U43gi4aS)    |...|
 | Digital Ocean | [Đăng ký ngay ](https://m.do.co/c/5ef6c574cded)     |Đăng ký qua link này, bạn được D.O tặng $200 và 60 ngày sử dụng cho tài khoản mới|
 
