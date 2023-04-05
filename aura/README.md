@@ -4,7 +4,7 @@
 | ------------- |:-------------:     |:-------------: |
 | Vultr         | [Đăng ký ngay ](https://www.vultr.com/?ref=6846932)|...|
 | Hetzner      | [Đăng ký ngay ](https://hetzner.cloud/?ref=fS54U43gi4aS)    |...|
-| Digital Ocean | [Đăng ký ngay ](https://m.do.co/c/5ef6c574cded)     |Đăng ký qua link này, bạn được tặng $200 và 60 ngày sử dụng cho user mới|
+| Digital Ocean | [Đăng ký ngay ](https://m.do.co/c/5ef6c574cded)     |Đăng ký qua link này, bạn được D.O tặng $200 và 60 ngày sử dụng cho tài khoản mới|
 
 # Cập nhật OS và cài các thành phần cần thiết
 ```
