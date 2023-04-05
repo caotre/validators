@@ -130,7 +130,8 @@ sudo systemctl status aurad
 sudo systemctl stop aurad
 aurad tendermint unsafe-reset-all
 ```
-## Open ports ở Vultr (nếu cần). Các port 26656, 26657, 1317, 9090 cần phải mở
+## Open ports
+Các port 26656, 26657, 1317, 9090 cần phải mở. Ở Vultr sẽ phải mở thủ công, các nhà cung cấp khác, các port đó thường tự mở
 ```
 sudo apt-get install ufw
 sudo ufw enable
@@ -146,7 +147,7 @@ sudo ufw status
 ```
 aurad tx staking create-validator \
   --amount=1000000uaura \
-	--pubkey $(aurad tendermint show-validator) \
+  --pubkey $(aurad tendermint show-validator) \
   --moniker="TienThuatToan Capital" \
   --website="https://tienthuattoan.ventures" \
   --details="Guaranteed availability and up-time backed by a professional blockchain infrastructure team. Fast, datacenter-hosted, bare-metal validators" \
